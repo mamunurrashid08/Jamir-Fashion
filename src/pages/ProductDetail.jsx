@@ -189,12 +189,12 @@ const ProductDetail = () => {
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-4">Size Guide</h3>
                 <ul className="space-y-2 text-gray-600">
-                  <li>• XS: 32-34 inches</li>
-                  <li>• S: 34-36 inches</li>
-                  <li>• M: 36-38 inches</li>
-                  <li>• L: 38-40 inches</li>
-                  <li>• XL: 40-42 inches</li>
-                  <li>• XXL: 42-44 inches</li>
+                  <li>• XS: 50-52 inches</li>
+                  <li>• S: 52-54 inches</li>
+                  <li>• M: 54-56 inches</li>
+                  <li>• L: 56-58 inches</li>
+                  <li>• XL: 58-60 inches</li>
+                  <li>• XXL: 60-62 inches</li>
                 </ul>
               </div>
             </div>

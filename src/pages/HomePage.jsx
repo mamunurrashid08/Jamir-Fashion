@@ -47,7 +47,7 @@ const HomePage = () => {
             <div className="relative">
               <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/src/assets/abaya_001.jpg"
+                  src="/src/assets/abaya_002.jpg"
                   alt="Featured Abaya"
                   className="w-full h-full object-cover"
                 />

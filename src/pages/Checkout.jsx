@@ -41,9 +41,9 @@ ${formData.notes ? `Notes: ${formData.notes}` : ''}
 Order Details:
 ${orderItems}
 
-Subtotal: $AED{cartTotal.toFixed(2)}
-Tax: $ AED{(cartTotal * 0.1).toFixed(2)}
-Total: $ AED{(cartTotal * 1.1).toFixed(2)}
+Subtotal: $${cartTotal.toFixed(2)}
+Tax: $${(cartTotal * 0.1).toFixed(2)}
+Total: $${(cartTotal * 1.1).toFixed(2)}
     `.trim();
 
     return customerInfo;

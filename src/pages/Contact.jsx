@@ -58,9 +58,9 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Address</h3>
                   <p className="text-gray-600">
-                    123 Fashion Street<br />
-                    New York, NY 10001<br />
-                    United States
+                    Ayal Nasir Street<br />
+                    Ner Joroni Mosjid,Al Badriya Building<br />
+                    Deira, Dubai,UAE
                   </p>
                 </div>
               </div>
@@ -71,8 +71,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Phone</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
-                  <p className="text-sm text-gray-500">Mon-Fri 9am-6pm EST</p>
+                  <p className="text-gray-600">+971 58 172 9990</p>
+                  <p className="text-sm text-gray-500">We'll respond 9am-11.45pm EST</p>
                 </div>
               </div>
 
@@ -82,7 +82,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Email</h3>
-                  <p className="text-gray-600">info@jamirfashion.com</p>
+                  <p className="text-gray-600">jamirfashion1@gmail.com</p>
                   <p className="text-sm text-gray-500">We'll respond within 24 hours</p>
                 </div>
               </div>
@@ -94,9 +94,9 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Business Hours</h3>
                   <div className="text-gray-600">
-                    <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
-                    <p>Saturday: 10:00 AM - 4:00 PM</p>
-                    <p>Sunday: Closed</p>
+                    <p>Monday - Friday: 9:00 AM - 12:00 PM</p>
+                    <p>Saturday: 10:00 AM - 12:00 PM</p>
+                    <p>Sunday: Open</p>
                   </div>
                 </div>
               </div>

@@ -47,7 +47,7 @@ const HomePage = () => {
             <div className="relative">
               <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/abaya_001.jpg"
+                  src="/abaya_004.jpg"
                   alt="Featured Abaya"
                   className="w-full h-full object-cover"
                 />
@@ -73,7 +73,7 @@ const HomePage = () => {
                 <Truck className="w-8 h-8 text-purple-600" />
               </div>
               <h3 className="text-xl font-semibold text-gray-900">Free Shipping</h3>
-              <p className="text-gray-600">Free worldwide shipping on orders over $100</p>
+              <p className="text-gray-600">Free worldwide shipping on orders over 500 AED</p>
             </div>
             <div className="text-center space-y-4">
               <div className="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto">

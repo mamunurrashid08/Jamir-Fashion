@@ -103,19 +103,19 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <MapPin className="w-4 h-4 text-purple-400" />
                 <span className="text-gray-300 text-sm">
-                  123 Fashion Street, City, Country
+                  Ayal Nasir Street,Al Badriya Building, Deira, Dubai 
                 </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-4 h-4 text-purple-400" />
                 <span className="text-gray-300 text-sm">
-                  +1 (555) 123-4567
+                  +971 58 172 9990
                 </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 text-purple-400" />
                 <span className="text-gray-300 text-sm">
-                  info@jamirfashion.com
+                  jamirfashion1@gmail.com
                 </span>
               </div>
             </div>
@@ -125,7 +125,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Jamir Fashion. All rights reserved.
+            © 2025 Jamir Fashion. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-white transition-colors text-sm">

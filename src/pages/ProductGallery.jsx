@@ -78,9 +78,9 @@ const ProductGallery = () => {
                   className="w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent"
                 >
                   <option value="all">All Prices</option>
-                  <option value="under-75">Under $75</option>
-                  <option value="75-100">$75 - $100</option>
-                  <option value="over-100">Over $100</option>
+                  <option value="under-75">Under AED 75</option>
+                  <option value="75-100">AED 75 - AED 100</option>
+                  <option value="over-100">Over AED 100</option>
                 </select>
               </div>
 

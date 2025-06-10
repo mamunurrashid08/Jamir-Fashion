@@ -27,7 +27,7 @@ const ProductDetail = () => {
     );
   }
 
-  const sizes = ['XS', 'S', 'M', 'L', 'XL', 'XXL'];
+  const sizes = ['XS/50', 'S/52', 'M/54', 'L/56', 'XL/58', 'XXL/60'];
   const relatedProducts = products.filter(p => p.id !== id).slice(0, 4);
 
   const handleAddToCart = () => {
@@ -158,7 +158,7 @@ const ProductDetail = () => {
             <div className="border-t pt-6 space-y-4">
               <div className="flex items-center space-x-3">
                 <Truck className="w-5 h-5 text-purple-600" />
-                <span className="text-gray-700">Free shipping on orders over $100</span>
+                <span className="text-gray-700">Free shipping on orders over 500 AED</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Shield className="w-5 h-5 text-purple-600" />
@@ -166,7 +166,7 @@ const ProductDetail = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <RotateCcw className="w-5 h-5 text-purple-600" />
-                <span className="text-gray-700">30-day return policy</span>
+                <span className="text-gray-700">local 7-day return policy</span>
               </div>
             </div>
           </div>
@@ -184,6 +184,7 @@ const ProductDetail = () => {
                   <li>• Machine washable (cold water)</li>
                   <li>• Hang dry recommended</li>
                   <li>• Iron on low heat if needed</li>
+                  <li>• If you need the same design in a different color, please let us know first.</li>
                 </ul>
               </div>
               <div>

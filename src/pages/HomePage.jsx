@@ -39,7 +39,7 @@ const HomePage = () => {
                 </Button>
                 <Button asChild variant="outline" size="lg" className="bg-white text-purple-900 hover:bg-purple-50">
                   <Link to="/custom-design">
-                    Custom Design
+                    Custom Design ✂
                   </Link>
                 </Button>
               </div>

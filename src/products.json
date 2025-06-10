@@ -1,0 +1,213 @@
+[
+  {
+    "id": "abaya_001",
+    "name": "Elegant Flow Abaya",
+    "price": 79.99,
+    "description": "A beautifully flowing abaya with intricate pleats, perfect for any occasion. Made from high-quality, breathable fabric.",
+    "image": "/abaya_001.jpg"
+  },
+  {
+    "id": "abaya_002",
+    "name": "Classic Beige Abaya",
+    "price": 65.00,
+    "description": "Timeless beige abaya with subtle embroidery on the sleeves, offering comfort and elegance.",
+    "image": "/abaya_002.jpg"
+  },
+  {
+    "id": "abaya_003",
+    "name": "Sage Green Belted Abaya",
+    "price": 72.50,
+    "description": "Stylish sage green abaya with a matching belt to accentuate the waist, ideal for a modest yet modern look.",
+    "image": "/abaya_003.jpg"
+  },
+  {
+    "id": "abaya_004",
+    "name": "Black Lace Sleeve Abaya",
+    "price": 89.99,
+    "description": "Sophisticated black abaya featuring delicate lace detailing on the sleeves, perfect for evening wear.",
+    "image": "/abaya_004.jpg"
+  },
+  {
+    "id": "abaya_005",
+    "name": "Light Khaki Open Abaya",
+    "price": 75.00,
+    "description": "Versatile light khaki open abaya with wide sleeves, offering a relaxed and chic style.",
+    "image": "/abaya_005.jpg"
+  },
+  {
+    "id": "abaya_006",
+    "name": "Denim Blue Two-Piece Abaya",
+    "price": 85.00,
+    "description": "Modern two-piece abaya set in denim blue, combining comfort with contemporary design.",
+    "image": "/abaya_006.jpg"
+  },
+  {
+    "id": "abaya_007",
+    "name": "Black Tie-Waist Abaya",
+    "price": 69.99,
+    "description": "Elegant black abaya with a flattering tie-waist design, suitable for both casual and formal settings.",
+    "image": "/abaya_007.jpg"
+  },
+  {
+    "id": "abaya_008",
+    "name": "Blush Pink Cardigan Abaya",
+    "price": 70.00,
+    "description": "Soft blush pink cardigan-style abaya, a stylish layering piece for any outfit.",
+    "image": "/abaya_008.jpg"
+  },
+  {
+    "id": "abaya_009",
+    "name": "Mint Green Silk Abaya",
+    "price": 95.00,
+    "description": "Luxurious mint green silk abaya, offering a graceful drape and a sophisticated look.",
+    "image": "/abaya_009.jpg"
+  },
+  {
+    "id": "abaya_010",
+    "name": "Monochrome Striped Abaya",
+    "price": 88.00,
+    "description": "Bold monochrome striped abaya, a statement piece for the fashion-forward individual.",
+    "image": "/abaya_010.jpg"
+  },
+  {
+    "id": "abaya_011",
+    "name": "Olive Green Pearl Abaya",
+    "price": 92.00,
+    "description": "Chic olive green abaya adorned with delicate pearls on the sleeves, perfect for special occasions.",
+    "image": "/abaya_011.jpg"
+  },
+  {
+    "id": "abaya_012",
+    "name": "Sela - Wooden Abaya",
+    "price": 120.00,
+    "description": "Unique 'Sela' wooden abaya, a conceptual art piece inspired by traditional abaya forms and natural elements.",
+    "image": "/abaya_012.jpg"
+  },
+  {
+    "id": "abaya_013",
+    "name": "Dusty Rose Embroidered Abaya",
+    "price": 99.00,
+    "description": "Exquisite dusty rose abaya with intricate embroidery, a blend of tradition and modern design.",
+    "image": "/abaya_013.jpg"
+  },
+  {
+    "id": "abaya_014",
+    "name": "Teal Blue Flowy Abaya",
+    "price": 78.00,
+    "description": "Vibrant teal blue abaya with a flowy silhouette, offering comfort and a pop of color.",
+    "image": "/abaya_014.jpg"
+  },
+  {
+    "id": "abaya_015",
+    "name": "Maroon Gold Detail Abaya",
+    "price": 105.00,
+    "description": "Regal maroon abaya with elegant gold detailing, perfect for festive events.",
+    "image": "/abaya_015.jpg"
+  },
+  {
+    "id": "abaya_016",
+    "name": "Cream and Grey Abaya",
+    "price": 82.00,
+    "description": "Sophisticated cream and grey abaya, a stylish combination for a refined look.",
+    "image": "/abaya_016.jpg"
+  },
+  {
+    "id": "abaya_017",
+    "name": "Navy Blue Modern Abaya",
+    "price": 80.00,
+    "description": "Contemporary navy blue abaya with a sleek design, suitable for everyday elegance.",
+    "image": "/abaya_017.jpg"
+  },
+  {
+    "id": "abaya_018",
+    "name": "White and Black Panel Abaya",
+    "price": 90.00,
+    "description": "Striking white and black panel abaya, a chic and modern design.",
+    "image": "/abaya_018.jpg"
+  },
+  {
+    "id": "abaya_019",
+    "name": "Emerald Green Embellished Abaya",
+    "price": 110.00,
+    "description": "Stunning emerald green abaya with intricate embellishments, ideal for grand occasions.",
+    "image": "/abaya_019.jpg"
+  },
+  {
+    "id": "abaya_020",
+    "name": "Silver Grey Pleated Abaya",
+    "price": 85.00,
+    "description": "Graceful silver grey abaya with delicate pleats, offering a soft and elegant silhouette.",
+    "image": "/abaya_020.jpg"
+  },
+  {
+    "id": "abaya_021",
+    "name": "Brown Earth Tone Abaya",
+    "price": 70.00,
+    "description": "Comfortable brown abaya in earthy tones, perfect for a natural and understated style.",
+    "image": "/abaya_021.jpg"
+  },
+  {
+    "id": "abaya_022",
+    "name": "Burgundy Kimono Abaya",
+    "price": 93.00,
+    "description": "Fashionable burgundy kimono-style abaya, a versatile piece for various looks.",
+    "image": "/abaya_022.jpg"
+  },
+  {
+    "id": "abaya_023",
+    "name": "Light Blue Casual Abaya",
+    "price": 68.00,
+    "description": "Relaxed light blue abaya, ideal for everyday wear and comfort.",
+    "image": "/abaya_023.jpg"
+  },
+  {
+    "id": "abaya_024",
+    "name": "Gold Embroidered Black Abaya",
+    "price": 115.00,
+    "description": "Luxurious black abaya with stunning gold embroidery, a true statement of elegance.",
+    "image": "/abaya_024.jpg"
+  },
+  {
+    "id": "abaya_025",
+    "name": "Rose Pink Modest Abaya",
+    "price": 77.00,
+    "description": "Charming rose pink abaya, designed for modest fashion with a touch of femininity.",
+    "image": "/abaya_025.jpg"
+  },
+  {
+    "id": "abaya_026",
+    "name": "Dark Green Simple Abaya",
+    "price": 62.00,
+    "description": "Classic dark green abaya with a simple yet elegant design, suitable for all occasions.",
+    "image": "/abaya_026.jpg"
+  },
+  {
+    "id": "abaya_027",
+    "name": "Grey Textured Abaya",
+    "price": 74.00,
+    "description": "Modern grey abaya with unique textured fabric, adding depth and style.",
+    "image": "/abaya_027.jpg"
+  },
+  {
+    "id": "abaya_028",
+    "name": "Purple Open Front Abaya",
+    "price": 83.00,
+    "description": "Stylish purple open-front abaya, perfect for layering and creating diverse looks.",
+    "image": "/abaya_028.jpg"
+  },
+  {
+    "id": "abaya_029",
+    "name": "Beige and White Contrast Abaya",
+    "price": 87.00,
+    "description": "Elegant beige and white contrast abaya, a sophisticated choice for any wardrobe.",
+    "image": "/abaya_029.jpg"
+  },
+  {
+    "id": "abaya_030",
+    "name": "Black and Gold Trim Abaya",
+    "price": 98.00,
+    "description": "Luxurious black abaya with exquisite gold trim, ideal for special events and celebrations.",
+    "image": "/abaya_030.jpg"
+  }
+]
+

@@ -20,15 +20,23 @@ const Header = () => {
 
   return (
     <header className="bg-white shadow-sm border-b border-gray-200 sticky top-0 z-40">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16">
-          {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-sm">JF</span>
-            </div>
-            <span className="text-xl font-bold text-gray-900">Jamir Fashion</span>
-          </Link>
+  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="flex justify-between items-center h-16">
+      {/* Logo */}
+      <Link to="/" className="flex items-center space-x-2">
+        {/* লোগো যোগ করা হয়েছে */}
+        <img 
+          src="/jamirfashion.jpg" 
+          alt="Jamir Fashion Logo" 
+          className="w-8 h-8 rounded-full" 
+        />
+        <span className="text-xl font-bold text-gray-900">Jamir Fashion</span>
+      </Link>
+      {/* ... other header items */}
+    </div>
+  </div>
+</header>
+    
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">

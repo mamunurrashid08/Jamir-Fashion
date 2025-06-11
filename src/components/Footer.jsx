@@ -8,29 +8,30 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
-          <div className="space-y-4">
-            <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full flex items-center justify-center">
-                <span className="text-white font-bold text-sm">JF</span>
-              </div>
-              <span className="text-xl font-bold">Jamir Fashion</span>
-            </div>
-            <p className="text-gray-300 text-sm">
-              Premium abayas and Islamic wear for the modern Muslim woman. 
-              Combining tradition with contemporary style.
-            </p>
-            <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
-                <Facebook className="w-5 h-5" />
-              </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
-                <Instagram className="w-5 h-5" />
-              </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
-                <Twitter className="w-5 h-5" />
-              </a>
-            </div>
-          </div>
+          {/* Company Info */}
+<div className="space-y-4">
+  <div className="flex items-center space-x-2">
+    {/* jamirfashion.jpg লোগো যোগ করা হয়েছে */}
+    <img src="/jamirfashion.jpg" alt="Jamir Fashion Logo" className="w-8 h-8 rounded-full" />
+    <span className="text-xl font-bold">Jamir Fashion</span>
+  </div>
+  <p className="text-gray-300 text-sm">
+    Premium abayas and Islamic wear for the modern Muslim woman. 
+    Combining tradition with contemporary style.
+  </p>
+  <div className="flex space-x-4">
+    <a href="#" className="text-gray-400 hover:text-white transition-colors">
+      <Facebook className="w-5 h-5" />
+    </a>
+    <a href="#" className="text-gray-400 hover:text-white transition-colors">
+      <Instagram className="w-5 h-5" />
+    </a>
+    <a href="#" className="text-gray-400 hover:text-white transition-colors">
+      <Twitter className="w-5 h-5" />
+    </a>
+  </div>
+</div>
+   
 
           {/* Quick Links */}
           <div className="space-y-4">
